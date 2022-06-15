@@ -2,6 +2,7 @@
 
 le montor, lemon torpedo!
 
+![main](https://raw.githubusercontent.com/lemontor/lemontor/master/images/v12_main_lemon.png)
 ![bottom](https://github.com/HannesGitH/lementor/raw/main/images/v12_brass_bottom_gloss.png)
 ![top](https://github.com/HannesGitH/lementor/raw/main/images/v12_metal_top.png)
 ![side](https://github.com/HannesGitH/lementor/raw/main/images/v12_glass_side.png)
