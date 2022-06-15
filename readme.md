@@ -7,6 +7,8 @@ le montor, lemon torpedo!
 ![top](https://github.com/HannesGitH/lementor/raw/main/images/v12_lemon_side.png)
 ![side](https://github.com/HannesGitH/lementor/raw/main/images/v12_glass_side.png)
 
+a diy jet-drive to hold in your hands or mount to an SUP for fast diversive water travel
+
 ## extra stuff to buy
 
 - motor, control, and battery
