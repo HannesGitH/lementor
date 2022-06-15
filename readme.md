@@ -20,6 +20,12 @@ a diy jet drive to hold in your hands or mount to an SUP for fast diversive wate
 - m5 threaded [inserts](https://www.aliexpress.com/item/1005003754316929.html) and bolts to mount the motor (custom holder needed)
 - [tube](https://www.obi.de/metall-dachrinnen/fallrohr-nw-80-ral-8028-braun-2-m/p/6630149) to house electronics
 
+## misc
+
+- jet drives should be very high rpm
+    - increase rotor angle of attack (very much)!
+- also nozzle stators could have slight angle near rotor to be more in flow and channel water more efficient
+
 ## inspiration
 
 - <https://www.youtube.com/watch?v=HG_EgJwo_WU>
