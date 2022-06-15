@@ -2,9 +2,9 @@
 
 le montor, lemon torpedo!
 
-![bottom](https://github.com/HannesGitH/lementor/raw/main/v12_brass_bottom.png)
-![top](https://github.com/HannesGitH/lementor/raw/main/v12_metal_top.png)
-![side](https://github.com/HannesGitH/lementor/raw/main/v12_glass_side.png)
+![bottom](https://github.com/HannesGitH/lementor/raw/main/images/v12_brass_bottom.png)
+![top](https://github.com/HannesGitH/lementor/raw/main/images/v12_metal_top.png)
+![side](https://github.com/HannesGitH/lementor/raw/main/images/v12_glass_side.png)
 
 ## extra stuff to buy
 
