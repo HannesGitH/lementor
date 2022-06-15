@@ -1,13 +1,15 @@
-# [lemontor](https://a360.co/3xRkCS7)
+# lemontor
 
-le montor, lemon torpedo!
+[3D-View](https://a360.co/3xRkCS7)
 
-![main](https://github.com/HannesGitH/lementor/raw/main/images/v12_main_lemon.png)
-![bottom](https://github.com/HannesGitH/lementor/raw/main/images/v12_brass_bottom_gloss.png)
-![top](https://github.com/HannesGitH/lementor/raw/main/images/v12_lemon_side.png)
-![side](https://github.com/HannesGitH/lementor/raw/main/images/v12_glass_side.png)
+lemon torpedo!
 
-a diy jet-drive to hold in your hands or mount to an SUP for fast diversive water travel
+![main](https://github.com/HannesGitH/lemontor/raw/main/images/v12_main_lemon.png)
+![bottom](https://github.com/HannesGitH/lemontor/raw/main/images/v12_brass_bottom_gloss.png)
+![top](https://github.com/HannesGitH/lemontor/raw/main/images/v12_lemon_side.png)
+![side](https://github.com/HannesGitH/lemontor/raw/main/images/v12_glass_side.png)
+
+a diy jet drive to hold in your hands or mount to an SUP for fast diversive water travel 🚀
 
 ## extra stuff to buy
 
@@ -22,4 +24,4 @@ a diy jet-drive to hold in your hands or mount to an SUP for fast diversive wate
 
 - <https://www.youtube.com/watch?v=HG_EgJwo_WU>
 - <https://youtu.be/5a1aKTr5mrg?t=160>
--<https://youtu.be/C9jGKaiZIcQ>
+- <https://youtu.be/C9jGKaiZIcQ>
