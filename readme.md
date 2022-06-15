@@ -1,10 +1,10 @@
-# lemontor
+# [lemontor](https://a360.co/3xRkCS7)
 
 le montor, lemon torpedo!
 
 ![main](https://github.com/HannesGitH/lementor/raw/main/images/v12_main_lemon.png)
 ![bottom](https://github.com/HannesGitH/lementor/raw/main/images/v12_brass_bottom_gloss.png)
-![top](https://github.com/HannesGitH/lementor/raw/main/images/v12_metal_top.png)
+![top](https://github.com/HannesGitH/lementor/raw/main/images/v12_lemon_side.png)
 ![side](https://github.com/HannesGitH/lementor/raw/main/images/v12_glass_side.png)
 
 ## extra stuff to buy
