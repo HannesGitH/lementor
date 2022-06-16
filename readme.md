@@ -13,9 +13,9 @@ lemon torpedo!
 </p>
 
 <p align="left">
-  <img alt="Light" src="https://github.com/HannesGitH/lemontor/raw/main/images/v18_glass_side_top.png" width="59.8%">
+  <img alt="Light" src="https://github.com/HannesGitH/lemontor/raw/main/images/v18_glass_side_top.png" width="49.5%">
 <!-- &nbsp; &nbsp; &nbsp; &nbsp; -->
-  <img alt="Dark" src="https://github.com/HannesGitH/lemontor/raw/main/images/v12_metal_top.png" width="59.8%">
+  <img alt="Dark" src="https://github.com/HannesGitH/lemontor/raw/main/images/v12_metal_top.png" width="49.5%">
 </p>
 
 a diy jet drive to hold in your hands or mount to an SUP for fast diversive water travel 🚀
