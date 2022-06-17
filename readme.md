@@ -27,6 +27,7 @@ a diy jet drive to hold in your hands or mount to an SUP for fast diversive wate
 - 150*8mm [rod](https://de.aliexpress.com/item/1005004340355038.html) and motor [coupling](https://www.aliexpress.com/item/1005003160728369.html)
 - [bearing](https://www.aliexpress.com/item/4000286783632.html) and [oil-seal](https://www.aliexpress.com/item/4000286783632.html) 
 - m5 threaded [inserts](https://www.aliexpress.com/item/1005003754316929.html) and bolts to mount the motor (custom holder needed)
+- [m3 bolts and nuts](https://www.obi.de/gewindeschrauben/lux-zylinderkopf-gewindeschraube-m3-x-10-mm-verzinkt-vollgewinde-8-stk-m-muttern/p/8687121) for mounting the prop to the shaft
 - [tube](https://www.obi.de/metall-dachrinnen/fallrohr-nw-80-ral-8028-braun-2-m/p/6630149) to house electronics
 
 ## misc
